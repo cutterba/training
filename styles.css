@@ -1,0 +1,25 @@
+img {
+  width:300px;
+  margin-bottom:10px;
+}
+
+.container {
+  width:300px;
+  padding: 10px;
+border: 1px solid lightgray;}
+
+.fact {font-style:italic;}
+
+span {font-weight:bold;}
+
+li {
+  list-style:none;
+  }
+
+.box {
+    padding:10px;
+  border: 1px solid lightgray;}
+
+.list {
+  text-align:left;
+  padding-left:0px;}
